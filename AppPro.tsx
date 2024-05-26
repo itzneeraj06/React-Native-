@@ -35,3 +35,5 @@ const styles = StyleSheet.create({
 })
 
 export default AppPro
+//just for understanding how things works this file remove in index.js and rendor default file app.jsx not apppro.jsx
+// shift and r for refresh
