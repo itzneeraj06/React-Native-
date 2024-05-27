@@ -8,6 +8,8 @@ import {
 } from 'react-native'
 import FlatCards from './components/FlatCards';
 import ElevatedCards from './components/ElevatedCards';
+import FancyCards from './components/FancyCards';
+import ActionCards from './components/ActionCards';
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
           <Text>Hello World !</Text>
           <FlatCards />
           <ElevatedCards/>
+          <FancyCards/>
+          <ActionCards/>
 
         </View>
       </ScrollView>
